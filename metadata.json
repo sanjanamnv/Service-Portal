@@ -1,0 +1,6 @@
+{
+  "name": "Authentication App with Calculator and Feedback Services",
+  "description": "A college front-end lab application featuring user authentication, protected routing, arithmetic calculator, feedback collection, profile management, and complete Angular code export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
